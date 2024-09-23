@@ -5,6 +5,8 @@ My passions are:
 - CAD✏
 - Programming🖥
 - Music🎼
+- *(new!)* Web applications🌐
+- *(new!)* Data management🗑
 
 I'm always looking for learning something new every day, it keeps the brain running ;)
 <!---
