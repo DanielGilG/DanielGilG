@@ -4,7 +4,7 @@ My passions are:
 - Robotics⚙
 - CAD✏
 - Programming🖥
-. Music🎼
+- Music🎼
 
 I'm always looking for learning something new every day, it keeps the brain running ;)
 
