@@ -1,5 +1,5 @@
 ## Hi there, I'm Daniel!
-My passions are:
+My interests are:
 - Knowledge🧠
 - Robotics⚙
 - CAD✏
