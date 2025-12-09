@@ -9,6 +9,5 @@ My interests are:
 - *(new!)* Web applications🌐
 - *(new!)* Data management🗑
 
-_I use omarchy btw!_
-
 I'm always looking for learning something new every day, it keeps the brain running ;)
+_I use omarchy btw!_
