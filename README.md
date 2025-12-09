@@ -10,4 +10,5 @@ My interests are:
 - *(new!)* Data management🗑
 
 I'm always looking for learning something new every day, it keeps the brain running ;)
+
 _I use omarchy btw!_
